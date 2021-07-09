@@ -8,7 +8,7 @@ let package = Package(
     ],
     products: [
         .library(name: "CrowdConnectedIPS",
-                 targets: ["CrowdConnectedIPSTarget"])
+                 targets: ["CrowdConnectedIPS"]) // Target"])
     ],
     dependencies: [
         .package(name: "CrowdConnectedShared",
@@ -17,15 +17,15 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "CrowdConnectedIPS",
-                      path: "CrowdConnectedIPS.xcframework"),
-        .target(name: "CrowdConnectedIPSTarget",
-                dependencies: [.target(name: "CrowdConnectedIPSWrapper")],
-                path: "CrowdConnectedIPSWrapper"),
-        .target(name: "CrowdConnectedIPSWrapper",
-                dependencies: [
-                    .target(name: "CrowdConnectedIPS"),
-                    .product(name: "CrowdConnectedShared", package: "CrowdConnectedShared")
-                ],
-                path: "CrowdConnectedIPSWrapper")
+                      path: "CrowdConnectedIPS.xcframework")//,
+        // .target(name: "CrowdConnectedIPSTarget",
+        //         dependencies: [.target(name: "CrowdConnectedIPSWrapper")],
+        //         path: "CrowdConnectedIPSWrapper"),
+        // .target(name: "CrowdConnectedIPSWrapper",
+        //         dependencies: [
+        //             .target(name: "CrowdConnectedIPS"),
+        //             .product(name: "CrowdConnectedShared", package: "CrowdConnectedShared")
+        //         ],
+        //         path: "CrowdConnectedIPSWrapper")
     ]
 )
