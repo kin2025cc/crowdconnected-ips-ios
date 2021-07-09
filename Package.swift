@@ -8,13 +8,13 @@ let package = Package(
     ],
     products: [
         .library(name: "CrowdConnectedIPS",
-                 targets: ["CrowdConnectedIPSTarget"])
+                 targets: ["CrowdConnectedIPS"]) //["CrowdConnectedIPSTarget"])
     ],
-    dependencies: [
+    // dependencies: [
         // .package(name: "CrowdConnectedShared",
         //          url: "https://github.com/crowdconnected/crowdconnected-shared-ios.git", 
         //          from: "1.0.1")
-    ],
+    // ],
     targets: [
         .binaryTarget(name: "CrowdConnectedIPS",
                       path: "CrowdConnectedIPS.xcframework"),
