@@ -8,7 +8,7 @@ let package = Package(
     ],
     products: [
         .library(name: "CrowdConnectedIPS",
-                 targets: ["CrowdConnectedIPS", "CrowdConnectedIPSTarget"])
+                 targets: ["CrowdConnectedIPSTarget"])
     ],
     dependencies: [
         .package(name: "CrowdConnectedShared",
