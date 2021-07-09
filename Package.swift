@@ -11,24 +11,21 @@ let package = Package(
                  targets: ["CrowdConnectedIPSTarget"])
     ],
     dependencies: [
-        .package(name: "CrowdConnectedShared",
-                 url: "https://github.com/crowdconnected/crowdconnected-shared-ios.git", 
-                 from: "1.0.1")
+        // .package(name: "CrowdConnectedShared",
+        //          url: "https://github.com/crowdconnected/crowdconnected-shared-ios.git", 
+        //          from: "1.0.1")
     ],
     targets: [
         .binaryTarget(name: "CrowdConnectedIPS",
-                      path: "CrowdConnectedIPS.xcframework"
-        ),
-        .target(name: "CrowdConnectedIPSTarget",
-                dependencies: [.target(name: "CrowdConnectedIPSWrapper")],
-                path: "CrowdConnectedIPSWrapper"
-        ),
-        .target(name: "CrowdConnectedIPSWrapper",
-                dependencies: [
-                    .target(name: "CrowdConnectedIPS"),
-                    .product(name: "CrowdConnectedShared", package: "CrowdConnectedShared")
-                ],
-                path: "CrowdConnectedIPSWrapper"
-        )
+                      path: "CrowdConnectedIPS.xcframework"),
+        // .target(name: "CrowdConnectedIPSTarget",
+        //         dependencies: [.target(name: "CrowdConnectedIPSWrapper")],
+        //         path: "CrowdConnectedIPSWrapper"),
+        // .target(name: "CrowdConnectedIPSWrapper",
+        //         dependencies: [
+        //             .target(name: "CrowdConnectedIPS"),
+        //             .product(name: "CrowdConnectedShared", package: "CrowdConnectedShared")
+        //         ],
+        //         path: "CrowdConnectedIPSWrapper")
     ]
 )
