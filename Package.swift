@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(name: "CrowdConnectedShared",
                  url: "https://github.com/crowdconnected/crowdconnected-shared-ios.git", 
-                 from: "1.0.1")
+                 from: "1.0.2")
     ],
     targets: [
         .binaryTarget(name: "CrowdConnectedIPS",
