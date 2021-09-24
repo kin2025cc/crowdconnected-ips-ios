@@ -218,6 +218,7 @@ SWIFT_CLASS("_TtC17CrowdConnectedIPS17CrowdConnectedIPS")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
+
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif
@@ -442,6 +443,7 @@ SWIFT_CLASS("_TtC17CrowdConnectedIPS17CrowdConnectedIPS")
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
 
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop

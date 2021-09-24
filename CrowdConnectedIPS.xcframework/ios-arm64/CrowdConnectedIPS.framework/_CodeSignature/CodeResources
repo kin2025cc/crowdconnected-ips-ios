@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CrowdConnectedIPS-Swift.h</key>
 		<data>
-		lxw054D0fuPXLMuZlpijQOTIIHA=
+		2ecm8OQ667fz0YNZh4MH+hXCNy8=
 		</data>
 		<key>Headers/CrowdConnectedIPS.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		4Bg+CtXexeJWRK29+woAZhZgL/w=
+		bStsF+lxsfzgxDPhUgM2Pp3MbJg=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		4Bg+CtXexeJWRK29+woAZhZgL/w=
+		bStsF+lxsfzgxDPhUgM2Pp3MbJg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			412F/+707xdhWJLkaflCzHslOYf0wfbHI7Ngtl4m5Zg=
+			02KPKUpj/c6WuWLuWz+EPV6/QAmuT5azUplExMpYsZ0=
 			</data>
 		</dict>
 		<key>Headers/CrowdConnectedIPS.h</key>
@@ -79,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K7f2YRe6weZRTH4j0SX4I9JrVEq+Cqk/ZhOlLNMmm40=
+			vWHsHphLdFpw2HoRV7cPrz8D5x6pXYLgVvZFlefCP78=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K7f2YRe6weZRTH4j0SX4I9JrVEq+Cqk/ZhOlLNMmm40=
+			vWHsHphLdFpw2HoRV7cPrz8D5x6pXYLgVvZFlefCP78=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
