@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CrowdConnectedIPS-Swift.h</key>
 		<data>
-		+kew2I5KOEZPCEuHe78+rFQDIVA=
+		GmW1FRoomZJG7U5ES6IMkBK4Opo=
 		</data>
 		<key>Headers/CrowdConnectedIPS.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hkrPlbeD9gU4NI3xhuUBgeOUEi0=
+		rwzTyATKrrl9qA9xNPpaIuqAIrM=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		jbrp2lMhJiNo+xXx4Rcrcn9qA3Q=
+		JzzwX01PDG2VpAcPtNcwVhql4eA=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		CDkqDAc4aLBPQBgnxON6aH2uSsQ=
+		0vomGpUgEbH/5utG4DQvg5H6mzA=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		RzfJHEw2yff8Ai6N0IQ3Pkvk0DA=
+		NP8ZhVrtbmFoTeDl2bf4Du8T0UI=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		jbrp2lMhJiNo+xXx4Rcrcn9qA3Q=
+		JzzwX01PDG2VpAcPtNcwVhql4eA=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		CDkqDAc4aLBPQBgnxON6aH2uSsQ=
+		0vomGpUgEbH/5utG4DQvg5H6mzA=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		RzfJHEw2yff8Ai6N0IQ3Pkvk0DA=
+		NP8ZhVrtbmFoTeDl2bf4Du8T0UI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			giEgMpUdntcOP+D8jeFps966GS7KGfvLEorEJ78bZK8=
+			CcZ64+XwZk/OfjJF02D5umcvJyxyl0NO91K8igYtA2A=
 			</data>
 		</dict>
 		<key>Headers/CrowdConnectedIPS.h</key>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ilzPCPVNWlmhFp0C5EiNS5ucw3Q+YAD/LeR89ZTtxuA=
+			/PNnLqSddUEPmc3Y6MvFiNHUARuPbMCoz1fpbA9eeYM=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7UYDwPClz9V9je4XJwS5agA5ezqz5tnHbxCkx6Lv3SI=
+			6JXjVkGDdiMmQAJdCwxg72QmJNPbj2bLd2NGkXSMkvM=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gztKs1DGmi/61uZ2bWgXI+dT9dCdd3mu6kuvysB7bi4=
+			YLsf83bNOGm7aHD4Ml67qFppJxeUDc/b7RXREq5PWP4=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ilzPCPVNWlmhFp0C5EiNS5ucw3Q+YAD/LeR89ZTtxuA=
+			/PNnLqSddUEPmc3Y6MvFiNHUARuPbMCoz1fpbA9eeYM=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7UYDwPClz9V9je4XJwS5agA5ezqz5tnHbxCkx6Lv3SI=
+			6JXjVkGDdiMmQAJdCwxg72QmJNPbj2bLd2NGkXSMkvM=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gztKs1DGmi/61uZ2bWgXI+dT9dCdd3mu6kuvysB7bi4=
+			YLsf83bNOGm7aHD4Ml67qFppJxeUDc/b7RXREq5PWP4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
