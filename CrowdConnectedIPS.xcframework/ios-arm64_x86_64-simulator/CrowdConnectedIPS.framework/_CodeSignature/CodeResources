@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8HC49GWDtSSsBdSAx5fxtPKbeqQ=
+		7xTeLx7GLMK1+qZ1RWTx22kh9Xw=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lXzHds82VIs+rqxRDrUgAA+j/xQ=
+		//ZsqgZO0OcfZZJtpWWauoWnRPg=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		lXzHds82VIs+rqxRDrUgAA+j/xQ=
+		//ZsqgZO0OcfZZJtpWWauoWnRPg=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VSdn26zVnc8esE6RvVAkVZQcy5E=
+		KViTQD3eqEotLnjF5w4aOiJa7bc=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		VSdn26zVnc8esE6RvVAkVZQcy5E=
+		KViTQD3eqEotLnjF5w4aOiJa7bc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WyPbcUnKi7rculh1XTxobgg6lOi31gov+V6QsOVTeo0=
+			Thh4gcjd7RHx7m9PWXPzshwcKiiQbl6kpcblRzqYa/Q=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64.swiftdoc</key>
@@ -124,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WyPbcUnKi7rculh1XTxobgg6lOi31gov+V6QsOVTeo0=
+			Thh4gcjd7RHx7m9PWXPzshwcKiiQbl6kpcblRzqYa/Q=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ylo5CrwDq6xoVHEJ/+SwsLkoZmghaPSS/UO0zqhhs+g=
+			iIO4HDglLYoQFxsy4E878K2Z6I3tFAoSvQ3NYJe3OWg=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64.swiftdoc</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ylo5CrwDq6xoVHEJ/+SwsLkoZmghaPSS/UO0zqhhs+g=
+			iIO4HDglLYoQFxsy4E878K2Z6I3tFAoSvQ3NYJe3OWg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
