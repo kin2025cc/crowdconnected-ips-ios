@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CrowdConnectedIPS-Swift.h</key>
 		<data>
-		MzKp6F4DHYSku3gZj9wFUfIEtdE=
+		sBc5NfQlHX2Rd3suQylB2v91dAA=
 		</data>
 		<key>Headers/CrowdConnectedIPS.h</key>
 		<data>
@@ -14,51 +14,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		p0v9j/3zh4EW04lamCOc2RAsN0M=
-		</data>
-		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<data>
-		PrkkNbeaNgCSy+AuYPLCZvhDmls=
-		</data>
-		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		/xRkVb74xe5UKcamJM/Dr9YXvug=
+		Wd6f4/fwhNbuaP0wgmLGxXLsiYA=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		A1csT9AKc8cTaSwReVHmBFIpBcY=
+		a8Dlt1+ZOcQd7XLdniIcGLeXdJE=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/xRkVb74xe5UKcamJM/Dr9YXvug=
+		1U9oIvQ4as+h6BAnwrhafXcyY8g=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CjUcRJnieww/E4hUc4ZrOy3jrfg=
-		</data>
-		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<data>
-		PrkkNbeaNgCSy+AuYPLCZvhDmls=
-		</data>
-		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		MSYLmDRIQgfHN4aNvtfMiaLG2Ds=
+		d2Q05owC5PjMdYPhQS6LRXBn+Tw=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		sCVX3SXT3Dz7uu7QDQgEkc5Z1cY=
+		IrknE5br/bNhbuAeRJFRrfT6ZaI=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		MSYLmDRIQgfHN4aNvtfMiaLG2Ds=
+		9znly8VhBZZt5YjGJAhjSFbC5nE=
 		</data>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		k4uaSbMXGOO0nAysBdZ1/guqG5k=
+		CJpVB6COgXJpEncvY3kj8y2wCvM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		QEYEa+Je1idIuyh/a7qa1VV1KVM=
+		LEJkN966AuQFWB10wJG9kX8+nL0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dhMRWbdqo/EcUgWne9xnn9r8UAp6xqMmfQ457o7/qfM=
+			PS24tDPz3Ap70EY+YFUFBfjXSNc+6Cg1SEnsTpbd7Cw=
 			</data>
 		</dict>
 		<key>Headers/CrowdConnectedIPS.h</key>
@@ -77,81 +61,53 @@
 			Tt/HYoOEb3npry+a28Hsgc9C7WAJESdsnWYEWeFYbVA=
 			</data>
 		</dict>
-		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AMZ/Fvs1xo4uRzrjsWq2V4iduAv6gmUKQ7+5wHy1Yx4=
-			</data>
-		</dict>
-		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			828pceu395FkI83O5fEAMxme+2Hrw0cx8SoeA95UaCg=
-			</data>
-		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vDwDcqdgSem6LeSOUXp1PuETQje/Isnntl08cmPWVCw=
+			CsuioJdILB7UHDOe3cApN9xXQRkh956vAQjQU2l5CJM=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			828pceu395FkI83O5fEAMxme+2Hrw0cx8SoeA95UaCg=
+			yZNl2hekl17yBeEh+SxHhXAPTccxMQUpnQPj61Gqah8=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4GFfM1fvZIKTFiC1qx82mKRgqtAIWc+sTZrjF9w4ZnU=
-			</data>
-		</dict>
-		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AMZ/Fvs1xo4uRzrjsWq2V4iduAv6gmUKQ7+5wHy1Yx4=
-			</data>
-		</dict>
-		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			u0z5PPBxTe4RRtxCqNb5z8JmcRnmMrIO36S4Infr0b4=
+			GsZVoPRGQEdUxTeWQyyYgcqpyAYBbdG/b1HfKmN39UM=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l1Vb+x4sDqfjRtR2dWhJ4C1WT34JrEgprcAl2nABVgQ=
+			ItqAW7uUwWhuv7kxfcFivMpHE26lWUcnWBX4EsKvaxQ=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u0z5PPBxTe4RRtxCqNb5z8JmcRnmMrIO36S4Infr0b4=
+			W0PKN+7a9BCnBMwR/+Jq/IQziVHO1mcS7+cMnkcQmcs=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedIPS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mCObKnJX4qzp2Bg21PrqLkWhYRBfgHxilS+mRx6YGDQ=
+			etlqUcPlQ/PZHihpWIs3ndprDe/F28uBUaijU+1N9x4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			45OGlqnvjv+obyj4lDZY2bqMnQainTLvfnftoISHHkU=
+			J29fyMG/FBIWFqxPSEz9LotFKerQ4eYhBbz5fkFFxrw=
 			</data>
 		</dict>
 	</dict>
