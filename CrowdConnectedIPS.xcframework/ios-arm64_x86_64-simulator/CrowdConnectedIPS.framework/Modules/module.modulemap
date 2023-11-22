@@ -1,7 +1,7 @@
 framework module CrowdConnectedIPS {
   umbrella header "CrowdConnectedIPS.h"
-
   export *
+
   module * { export * }
 }
 
