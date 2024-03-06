@@ -2284,62 +2284,55 @@
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
       "offset": 1595,
-      "length": 34,
-      "value": "\"Configure beacon monitorization.\""
+      "length": 55,
+      "value": "\"Configure beacon monitorization for IDs: \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 1678,
-      "length": 36,
-      "value": "\"Monitored beacon IDs: \""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1713,
+      "offset": 1649,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2302,
+      "offset": 2238,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 2355,
+      "offset": 2291,
       "length": 28,
       "value": "\"Start continuous scanning.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3001,
+      "offset": 2937,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3128,
+      "offset": 3064,
       "length": 30,
       "value": "\"Stop beacons monitorization.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3269,
+      "offset": 3205,
       "length": 42,
       "value": "\"CrowdConnectedIPS_CLBeaconRegion_\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3310,
+      "offset": 3246,
       "length": 1,
       "value": "\"\""
     },
