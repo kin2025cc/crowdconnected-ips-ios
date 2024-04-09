@@ -3431,203 +3431,217 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 793,
+      "offset": 855,
       "length": 44,
       "value": "\"CrowdConnected.IPSPositioner.DispatchQueue\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "IntegerLiteral",
-      "offset": 994,
+      "offset": 1056,
       "length": 4,
       "value": "-100"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 1303,
+      "offset": 1365,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 1352,
+      "offset": 1420,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 1605,
+      "offset": 1724,
       "length": 41,
       "value": "\"Resetting Positioner and its timestamps\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 2181,
+      "offset": 2300,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 2217,
+      "offset": 2342,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 2733,
-      "length": 45,
-      "value": "\"Configure positioner with TX value \""
+      "offset": 2933,
+      "length": 183,
+      "value": "\"Configure Positioner txValue=\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 2777,
-      "length": 2,
+      "offset": 2993,
+      "length": 1,
+      "value": "\", minBeaconsCount=\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
+      "kind": "StringLiteral",
+      "offset": 3049,
+      "length": 1,
+      "value": "\", minObservationsCount=\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
+      "kind": "StringLiteral",
+      "offset": 3115,
+      "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 2918,
+      "offset": 3500,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 3571,
+      "offset": 4153,
       "length": 30,
       "value": "\"Step data fed to positioner.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 5327,
+      "offset": 5909,
       "length": 35,
       "value": "\"Bluetooth data fed to positioner.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 5407,
+      "offset": 5989,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 5457,
+      "offset": 6039,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "IntegerLiteral",
-      "offset": 6957,
+      "offset": 7539,
       "length": 4,
       "value": "2000"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 7018,
+      "offset": 7600,
       "length": 92,
       "value": "\"Attempt to fetch a position just after \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 7096,
+      "offset": 7678,
       "length": 12,
       "value": "\" milliseconds\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 8547,
+      "offset": 9129,
       "length": 137,
       "value": "\"Drop step observation because of timestamping order. \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 8655,
+      "offset": 9237,
       "length": 6,
       "value": "\" millis before the last one.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 8705,
+      "offset": 9287,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 8741,
+      "offset": 9323,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 9189,
+      "offset": 9771,
       "length": 133,
       "value": "\"Drop BT observation because of timestamping order. \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 9293,
+      "offset": 9875,
       "length": 6,
       "value": "\" millis before the last one.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 9343,
+      "offset": 9925,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "BooleanLiteral",
-      "offset": 9383,
+      "offset": 9965,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 9707,
+      "offset": 10289,
       "length": 76,
       "value": "\"Attempt to compute position with a smaller timestamp than the previous one\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "IntegerLiteral",
-      "offset": 10178,
+      "offset": 10760,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "IntegerLiteral",
-      "offset": 10197,
+      "offset": 10779,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "IntegerLiteral",
-      "offset": 10368,
+      "offset": 10950,
       "length": 7,
       "value": "1000000"
     }
