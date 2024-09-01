@@ -1471,231 +1471,280 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 3720,
+      "offset": 3719,
       "length": 83,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 3739,
+      "offset": 3738,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 3758,
+      "offset": 3757,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 3779,
+      "offset": 3778,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 3801,
+      "offset": 3800,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 3876,
+      "offset": 3875,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 3897,
+      "offset": 3896,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 3918,
+      "offset": 3917,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 3970,
+      "offset": 3969,
       "length": 4,
       "value": "\",,\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 4017,
+      "offset": 4016,
       "length": 95,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 4039,
+      "offset": 4038,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 4060,
+      "offset": 4059,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 4082,
+      "offset": 4081,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 4091,
+      "offset": 4090,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 4111,
+      "offset": 4110,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 4129,
+      "offset": 4135,
+      "length": 142,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
+      "kind": "StringLiteral",
+      "offset": 4155,
+      "length": 1,
+      "value": "\",\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
+      "kind": "StringLiteral",
+      "offset": 4185,
+      "length": 1,
+      "value": "\",\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
+      "kind": "StringLiteral",
+      "offset": 4215,
+      "length": 1,
+      "value": "\",\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
+      "kind": "StringLiteral",
+      "offset": 4247,
+      "length": 1,
+      "value": "\",\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
+      "kind": "StringLiteral",
+      "offset": 4276,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
+      "kind": "StringLiteral",
+      "offset": 4294,
       "length": 41,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "StringLiteral",
-      "offset": 4168,
+      "offset": 4333,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
+      "kind": "StringLiteral",
+      "offset": 4371,
+      "length": 3,
+      "value": "\",\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 4955,
+      "offset": 5137,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 4983,
+      "offset": 5165,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5024,
+      "offset": 5206,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5052,
+      "offset": 5234,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5093,
+      "offset": 5275,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5121,
+      "offset": 5303,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5250,
+      "offset": 5432,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5291,
+      "offset": 5473,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5319,
+      "offset": 5501,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5360,
+      "offset": 5542,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5388,
+      "offset": 5570,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5429,
+      "offset": 5611,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 5457,
+      "offset": 5639,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 6176,
+      "offset": 6358,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 6438,
+      "offset": 6620,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/PositionUpdater.swift",
       "kind": "IntegerLiteral",
-      "offset": 6452,
+      "offset": 6634,
       "length": 1,
       "value": "0"
     },
