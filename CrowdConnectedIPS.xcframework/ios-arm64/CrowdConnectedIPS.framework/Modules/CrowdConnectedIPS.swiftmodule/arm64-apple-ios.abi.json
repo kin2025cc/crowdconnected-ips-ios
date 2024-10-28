@@ -87,44 +87,10 @@
       },
       {
         "kind": "Import",
-        "name": "CrowdConnectedShared",
-        "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "CoreLocation",
         "printedName": "CoreLocation",
         "declKind": "Import",
         "moduleName": "CrowdConnectedIPS"
-      },
-      {
-        "kind": "Import",
-        "name": "CrowdConnectedShared",
-        "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -186,13 +152,20 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "CrowdConnectedShared",
+        "printedName": "CrowdConnectedShared",
         "declKind": "Import",
         "moduleName": "CrowdConnectedIPS",
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedIPS"
       },
       {
         "kind": "Import",
@@ -278,6 +251,13 @@
       },
       {
         "kind": "Import",
+        "name": "CrowdConnectedShared",
+        "printedName": "CrowdConnectedShared",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedIPS"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -451,13 +431,20 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "CrowdConnectedShared",
+        "printedName": "CrowdConnectedShared",
         "declKind": "Import",
         "moduleName": "CrowdConnectedIPS",
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedIPS"
       },
       {
         "kind": "Import",
@@ -713,23 +700,6 @@
       },
       {
         "kind": "Import",
-        "name": "CrowdConnectedShared",
-        "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -799,51 +769,37 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/SystemStateCoordinator.swift",
       "kind": "Array",
-      "offset": 3025,
+      "offset": 3233,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/SystemStateCoordinator.swift",
       "kind": "Array",
-      "offset": 3256,
+      "offset": 3481,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/SystemStateCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 3358,
+      "offset": 3583,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/SystemStateCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 3506,
+      "offset": 3731,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/SystemStateCoordinator.swift",
       "kind": "BooleanLiteral",
-      "offset": 4284,
+      "offset": 4520,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/SystemStateCoordinator.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4305,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/SystemStateCoordinator.swift",
-      "kind": "Array",
-      "offset": 4761,
-      "length": 2,
-      "value": "[]"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/ProcessStages\/StepCounterScoringStage.swift",
@@ -946,7 +902,7 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/WrapperCLBeacon.swift",
       "kind": "IntegerLiteral",
-      "offset": 1250,
+      "offset": 1195,
       "length": 4,
       "value": "1000"
     },
@@ -993,142 +949,58 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 664,
-      "length": 62,
-      "value": "\"IPS: Failed to decode surfaces from dictionary \""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 725,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1648,
-      "length": 7,
-      "value": "\"max_x\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1680,
-      "length": 7,
-      "value": "\"min_y\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 2042,
-      "length": 3,
-      "value": "\"S\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 2230,
-      "length": 3,
-      "value": "\"N\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1648,
-      "length": 7,
-      "value": "\"max_x\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1680,
-      "length": 7,
-      "value": "\"min_y\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4695,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4894,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "FloatLiteral",
-      "offset": 7022,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "FloatLiteral",
-      "offset": 7067,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManagerObserver.swift",
       "kind": "StringLiteral",
-      "offset": 1843,
+      "offset": 1668,
       "length": 45,
       "value": "\"Location manager failed with error \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManagerObserver.swift",
       "kind": "StringLiteral",
-      "offset": 1887,
+      "offset": 1712,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManagerObserver.swift",
       "kind": "StringLiteral",
-      "offset": 2358,
+      "offset": 2183,
       "length": 45,
       "value": "\"Ranging beacons failed for region \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManagerObserver.swift",
       "kind": "StringLiteral",
-      "offset": 2402,
+      "offset": 2227,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManagerObserver.swift",
       "kind": "IntegerLiteral",
-      "offset": 2877,
+      "offset": 2702,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManagerObserver.swift",
       "kind": "StringLiteral",
-      "offset": 3935,
+      "offset": 3760,
       "length": 112,
       "value": "\"Failed to get encryptedValue for beacon with uuid \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManagerObserver.swift",
       "kind": "StringLiteral",
-      "offset": 4020,
+      "offset": 3845,
       "length": 3,
       "value": "\" and minor \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManagerObserver.swift",
       "kind": "StringLiteral",
-      "offset": 4046,
+      "offset": 3871,
       "length": 2,
       "value": "\"\""
     },
@@ -1140,135 +1012,107 @@
       "value": "\"CrowdConnectedIPS.BeaconsManagerObserver\""
     },
     {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Settings.swift",
-      "kind": "StringLiteral",
-      "offset": 650,
-      "length": 57,
-      "value": "\"Failed to decode settings from dictionary \""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Settings.swift",
-      "kind": "StringLiteral",
-      "offset": 706,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Settings.swift",
-      "kind": "BooleanLiteral",
-      "offset": 923,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Settings.swift",
-      "kind": "BooleanLiteral",
-      "offset": 961,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 1950,
+      "offset": 1854,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2038,
+      "offset": 1942,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2117,
+      "offset": 2021,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2307,
+      "offset": 2211,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2327,
+      "offset": 2231,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2367,
+      "offset": 2271,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2394,
+      "offset": 2298,
       "length": 15,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2408,
+      "offset": 2312,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2433,
+      "offset": 2337,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "IntegerLiteral",
-      "offset": 2505,
+      "offset": 2409,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2529,
+      "offset": 2433,
       "length": 22,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2550,
+      "offset": 2454,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2576,
+      "offset": 2480,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2603,
+      "offset": 2507,
       "length": 14,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons\/BeaconData.swift",
       "kind": "StringLiteral",
-      "offset": 2616,
+      "offset": 2520,
       "length": 2,
       "value": "\"\""
     },
@@ -1373,7 +1217,7 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/SurfacesProvider.swift",
       "kind": "Array",
-      "offset": 465,
+      "offset": 544,
       "length": 2,
       "value": "[]"
     },
@@ -1828,240 +1672,296 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "StringLiteral",
-      "offset": 4569,
+      "offset": 4376,
       "length": 69,
       "value": "\"Accelerometer monitorization failed to start due to unavailability.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "StringLiteral",
-      "offset": 5103,
+      "offset": 4910,
       "length": 37,
       "value": "\"Received invalid accelerometer data\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "StringLiteral",
-      "offset": 5418,
+      "offset": 5225,
       "length": 62,
       "value": "\"Motion monitorization failed to start due to unavailability.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "StringLiteral",
-      "offset": 5950,
+      "offset": 5757,
       "length": 37,
       "value": "\"Received invalid device motion data\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "StringLiteral",
-      "offset": 6514,
+      "offset": 6321,
       "length": 53,
       "value": "\"Discard motion data with an age of \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "StringLiteral",
-      "offset": 6566,
+      "offset": 6373,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "StringLiteral",
-      "offset": 7084,
+      "offset": 6891,
       "length": 67,
       "value": "\"Discard accelerometer data with an age of \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "StringLiteral",
-      "offset": 7150,
+      "offset": 6957,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "IntegerLiteral",
-      "offset": 8582,
+      "offset": 8389,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "BooleanLiteral",
-      "offset": 9111,
+      "offset": 8918,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "FloatLiteral",
-      "offset": 9181,
+      "offset": 8988,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "IntegerLiteral",
-      "offset": 9870,
+      "offset": 9677,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "StringLiteral",
-      "offset": 10126,
+      "offset": 9933,
       "length": 92,
       "value": "\"No accelerometer data was processed in the last \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "StringLiteral",
-      "offset": 10208,
+      "offset": 10015,
       "length": 7,
       "value": "\" seconds.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "FloatLiteral",
-      "offset": 10477,
+      "offset": 10284,
       "length": 3,
       "value": "9.8"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "FloatLiteral",
-      "offset": 10527,
+      "offset": 10334,
       "length": 3,
       "value": "9.8"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "FloatLiteral",
-      "offset": 10577,
+      "offset": 10384,
       "length": 3,
       "value": "9.8"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepsObserver.swift",
       "kind": "IntegerLiteral",
-      "offset": 10829,
+      "offset": 10636,
       "length": 7,
       "value": "1000000"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 907,
+      "offset": 935,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1009,
+      "offset": 1037,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1045,
+      "offset": 1073,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1089,
+      "offset": 1117,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2285,
+      "offset": 2211,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2457,
+      "offset": 2383,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2514,
+      "offset": 2440,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2552,
+      "offset": 2478,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2577,
+      "offset": 2503,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2992,
+      "offset": 2867,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3049,
+      "offset": 2924,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3086,
+      "offset": 2961,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3111,
+      "offset": 2986,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3522,
+      "length": 52,
+      "value": "\"Start ranging beacons in \""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3573,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3842,
+      "length": 51,
+      "value": "\"Stop ranging beacons in \""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/RealLocationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 3892,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/IPSStateMonitor.swift",
       "kind": "StringLiteral",
-      "offset": 7409,
+      "offset": 1532,
+      "length": 9,
+      "value": "\"beacons\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/IPSStateMonitor.swift",
+      "kind": "StringLiteral",
+      "offset": 1930,
+      "length": 10,
+      "value": "\"surfaces\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/IPSStateMonitor.swift",
+      "kind": "StringLiteral",
+      "offset": 6743,
+      "length": 9,
+      "value": "\"beacons\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/IPSStateMonitor.swift",
+      "kind": "StringLiteral",
+      "offset": 7155,
+      "length": 10,
+      "value": "\"surfaces\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/IPSStateMonitor.swift",
+      "kind": "StringLiteral",
+      "offset": 7993,
       "length": 14,
       "value": "\"trackingMode\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/IPSStateMonitor.swift",
       "kind": "StringLiteral",
-      "offset": 8057,
-      "length": 11,
-      "value": "\"bluetooth\""
+      "offset": 8638,
+      "length": 12,
+      "value": "\"nidsToScan\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/StateMonitor\/IPSStateMonitor.swift",
       "kind": "StringLiteral",
-      "offset": 8153,
-      "length": 34,
-      "value": "\"No bluetooth settings in payload\""
+      "offset": 8729,
+      "length": 12,
+      "value": "\"nidsToScan\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
@@ -2107,113 +2007,120 @@
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1852,
+      "length": 39,
+      "value": "\"Did configure monitorization regions.\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2223,
+      "offset": 2311,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2401,
+      "offset": 2489,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 2959,
+      "offset": 3047,
       "length": 40,
       "value": "\"Make one-off check for beacon regions.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3316,
+      "offset": 3404,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 4285,
+      "offset": 4220,
       "length": 36,
       "value": "\"Stop monitoring all beacon regions\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 4558,
+      "offset": 4493,
       "length": 10,
       "value": "\"regionId\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 4640,
+      "offset": 4575,
       "length": 64,
       "value": "\"Trigger exit event for removed region with ID \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 4703,
+      "offset": 4638,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5944,
+      "offset": 5696,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5980,
+      "offset": 5732,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6015,
+      "offset": 5767,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 6182,
+      "offset": 5934,
       "length": 54,
       "value": "\"Start monitoring beacon region: \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 6235,
+      "offset": 5987,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 6568,
+      "offset": 6320,
       "length": 10,
       "value": "\"regionId\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 6722,
+      "offset": 6474,
       "length": 76,
       "value": "\"Trigger exit event for removed region with ID \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/RegionsManagement\/BeaconRegionsManager.swift",
       "kind": "StringLiteral",
-      "offset": 6797,
+      "offset": 6549,
       "length": 2,
       "value": "\"\""
     },
@@ -2332,56 +2239,56 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 1595,
+      "offset": 1596,
       "length": 55,
       "value": "\"Configure beacon monitorization for IDs: \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 1649,
+      "offset": 1650,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2238,
+      "offset": 2239,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 2291,
+      "offset": 2292,
       "length": 28,
       "value": "\"Start continuous scanning.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2937,
+      "offset": 2938,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3064,
+      "offset": 3065,
       "length": 30,
       "value": "\"Stop beacons monitorization.\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3205,
+      "offset": 3206,
       "length": 42,
       "value": "\"CrowdConnectedIPS_CLBeaconRegion_\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "StringLiteral",
-      "offset": 3246,
+      "offset": 3247,
       "length": 1,
       "value": "\"\""
     },
@@ -2626,28 +2533,28 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/CartesianBeaconProvider.swift",
       "kind": "Dictionary",
-      "offset": 744,
+      "offset": 808,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/CartesianBeaconProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2284,
+      "offset": 2402,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/CartesianBeaconProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2608,
+      "offset": 2529,
       "length": 3,
       "value": "\":\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/CartesianBeaconProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2681,
+      "offset": 2602,
       "length": 3,
       "value": "\":\""
     },
@@ -3130,56 +3037,56 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/DataPublisiher\/IPSDataPublisher.swift",
       "kind": "BooleanLiteral",
-      "offset": 645,
+      "offset": 630,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/DataPublisiher\/IPSDataPublisher.swift",
       "kind": "StringLiteral",
-      "offset": 1188,
+      "offset": 1158,
       "length": 54,
       "value": "\"Attempt to publish empty data of type \""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/DataPublisiher\/IPSDataPublisher.swift",
       "kind": "StringLiteral",
-      "offset": 1240,
+      "offset": 1210,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/DataPublisiher\/IPSDataPublisher.swift",
       "kind": "StringLiteral",
-      "offset": 1477,
+      "offset": 1447,
       "length": 6,
       "value": "\"data\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/DataPublisiher\/IPSDataPublisher.swift",
       "kind": "StringLiteral",
-      "offset": 1590,
+      "offset": 1560,
       "length": 9,
       "value": "\"publish\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/DataPublisiher\/IPSDataPublisher.swift",
       "kind": "StringLiteral",
-      "offset": 1746,
+      "offset": 1716,
       "length": 6,
       "value": "\"data\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/DataPublisiher\/IPSDataPublisher.swift",
       "kind": "StringLiteral",
-      "offset": 1909,
+      "offset": 1879,
       "length": 6,
       "value": "\"data\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/DataPublisiher\/IPSDataPublisher.swift",
       "kind": "StringLiteral",
-      "offset": 2004,
+      "offset": 1974,
       "length": 39,
       "value": "\"Attempt to publish unknown data type.\""
     },
@@ -3193,14 +3100,14 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Interface\/CrowdConnectedIPS.swift",
       "kind": "StringLiteral",
-      "offset": 5256,
+      "offset": 5156,
       "length": 10,
       "value": "\"isActive\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Interface\/CrowdConnectedIPS.swift",
       "kind": "BooleanLiteral",
-      "offset": 5268,
+      "offset": 5168,
       "length": 4,
       "value": "true"
     },
@@ -3266,62 +3173,6 @@
       "offset": 1022,
       "length": 2,
       "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 930,
-      "length": 9,
-      "value": "\"IBEACON\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 965,
-      "length": 11,
-      "value": "\"EDDYSTONE\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 930,
-      "length": 9,
-      "value": "\"IBEACON\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 965,
-      "length": 11,
-      "value": "\"EDDYSTONE\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 2167,
-      "length": 6,
-      "value": "\"RFID\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 2414,
-      "length": 3,
-      "value": "\"S\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 2489,
-      "length": 3,
-      "value": "\"N\""
-    },
-    {
-      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 2167,
-      "length": 6,
-      "value": "\"RFID\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepDataProcessor.swift",
@@ -3669,28 +3520,28 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "StringLiteral",
-      "offset": 10289,
+      "offset": 10286,
       "length": 76,
       "value": "\"Attempt to compute position with a smaller timestamp than the previous one\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "IntegerLiteral",
-      "offset": 10760,
+      "offset": 10757,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "IntegerLiteral",
-      "offset": 10779,
+      "offset": 10776,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Positioner\/Positioner.swift",
       "kind": "IntegerLiteral",
-      "offset": 10950,
+      "offset": 10947,
       "length": 7,
       "value": "1000000"
     }
