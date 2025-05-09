@@ -87,44 +87,10 @@
       },
       {
         "kind": "Import",
-        "name": "CrowdConnectedShared",
-        "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "CoreLocation",
         "printedName": "CoreLocation",
         "declKind": "Import",
         "moduleName": "CrowdConnectedIPS"
-      },
-      {
-        "kind": "Import",
-        "name": "CrowdConnectedShared",
-        "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -349,6 +315,23 @@
       },
       {
         "kind": "Import",
+        "name": "CrowdConnectedShared",
+        "printedName": "CrowdConnectedShared",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedIPS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedIPS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "CoreLocation",
         "printedName": "CoreLocation",
         "declKind": "Import",
@@ -539,6 +522,23 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedIPS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CrowdConnectedShared",
+        "printedName": "CrowdConnectedShared",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedIPS"
       },
       {
         "kind": "Import",
@@ -713,23 +713,6 @@
       },
       {
         "kind": "Import",
-        "name": "CrowdConnectedShared",
-        "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedIPS",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -791,6 +774,23 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "CrowdConnectedShared",
+        "printedName": "CrowdConnectedShared",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedIPS"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedIPS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       }
     ],
     "json_format_version": 8
@@ -804,67 +804,11 @@
       "value": "35"
     },
     {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1648,
-      "length": 7,
-      "value": "\"max_x\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1680,
-      "length": 7,
-      "value": "\"min_y\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1648,
-      "length": 7,
-      "value": "\"max_x\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1680,
-      "length": 7,
-      "value": "\"min_y\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "FloatLiteral",
-      "offset": 7022,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
-      "kind": "FloatLiteral",
-      "offset": 7067,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
       "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManagerObserver.swift",
       "kind": "StringLiteral",
       "offset": 440,
       "length": 22,
       "value": "\"CrowdConnectedIPS.BeaconsManagerObserver\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Settings.swift",
-      "kind": "BooleanLiteral",
-      "offset": 923,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Settings.swift",
-      "kind": "BooleanLiteral",
-      "offset": 961,
-      "length": 4,
-      "value": "true"
     },
     {
       "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/Models\/SynchronizedArray.swift",
@@ -1084,6 +1028,48 @@
       "value": "0"
     },
     {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
+      "kind": "StringLiteral",
+      "offset": 930,
+      "length": 9,
+      "value": "\"IBEACON\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
+      "kind": "StringLiteral",
+      "offset": 965,
+      "length": 11,
+      "value": "\"EDDYSTONE\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
+      "kind": "StringLiteral",
+      "offset": 930,
+      "length": 9,
+      "value": "\"IBEACON\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
+      "kind": "StringLiteral",
+      "offset": 965,
+      "length": 11,
+      "value": "\"EDDYSTONE\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
+      "kind": "StringLiteral",
+      "offset": 2167,
+      "length": 6,
+      "value": "\"RFID\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
+      "kind": "StringLiteral",
+      "offset": 2167,
+      "length": 6,
+      "value": "\"RFID\""
+    },
+    {
       "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/BeaconsManagement\/BeaconsManager.swift",
       "kind": "Array",
       "offset": 590,
@@ -1266,53 +1252,53 @@
       "value": "true"
     },
     {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
+      "kind": "StringLiteral",
+      "offset": 1648,
+      "length": 7,
+      "value": "\"max_x\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
+      "kind": "StringLiteral",
+      "offset": 1680,
+      "length": 7,
+      "value": "\"min_y\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
+      "kind": "StringLiteral",
+      "offset": 1648,
+      "length": 7,
+      "value": "\"max_x\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
+      "kind": "StringLiteral",
+      "offset": 1680,
+      "length": 7,
+      "value": "\"min_y\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
+      "kind": "FloatLiteral",
+      "offset": 7022,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Surfaces.swift",
+      "kind": "FloatLiteral",
+      "offset": 7067,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
       "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Interface\/CrowdConnectedIPS.swift",
       "kind": "IntegerLiteral",
       "offset": 386,
       "length": 1,
       "value": "1"
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 930,
-      "length": 9,
-      "value": "\"IBEACON\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 965,
-      "length": 11,
-      "value": "\"EDDYSTONE\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 930,
-      "length": 9,
-      "value": "\"IBEACON\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 965,
-      "length": 11,
-      "value": "\"EDDYSTONE\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 2167,
-      "length": 6,
-      "value": "\"RFID\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Beacons.swift",
-      "kind": "StringLiteral",
-      "offset": 2167,
-      "length": 6,
-      "value": "\"RFID\""
     },
     {
       "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/ColocatorIPS\/CrowdConnectedIPS\/MotionManagement\/StepsObserver\/StepDataProcessor.swift",
@@ -1362,6 +1348,20 @@
       "offset": 1420,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Settings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 923,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/ColocatorIPS\/CrowdConnectedIPS\/Models\/Settings.swift",
+      "kind": "BooleanLiteral",
+      "offset": 961,
+      "length": 4,
+      "value": "true"
     }
   ]
 }
