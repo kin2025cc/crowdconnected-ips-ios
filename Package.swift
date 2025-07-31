@@ -11,8 +11,8 @@ let package = Package(
                  targets: ["CrowdConnectedIPS"])
     ],
     dependencies: [
-        .package(url: "https://github.com/crowdconnected/crowdconnected-shared-ios.git",
-                 exact: "1.6.8")
+        .package(url: "https://github.com/kin2025cc/crowdconnected-shared-ios.git",
+                 exact: "2.1.3")
     ],
     targets: [
         .binaryTarget(name: "CrowdConnectedIPS",
